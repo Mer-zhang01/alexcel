@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\MerZh\\Downloads\\Setups\\SampleLoginWithAmazonAppForAndroid-src._TTH_\\SampleLoginWithAmazonAppForAndroid-src\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\MerZh\\Downloads\\Setups\\SampleLoginWithAmazonAppForAndroid-src._TTH_\\SampleLoginWithAmazonAppForAndroid-src\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "12,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "768,1059",
+                        "endLines": "18,21",
+                        "endColumns": "12,12",
+                        "endOffsets": "1054,1214"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\MerZh\\Downloads\\Setups\\SampleLoginWithAmazonAppForAndroid-src._TTH_\\SampleLoginWithAmazonAppForAndroid-src\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,135,94",
+                        "endColumns": "38,38,40",
+                        "endOffsets": "89,169,130"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,94,133",
+                        "endColumns": "38,38,40",
+                        "endOffsets": "89,128,169"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\MerZh\\Downloads\\Setups\\SampleLoginWithAmazonAppForAndroid-src._TTH_\\SampleLoginWithAmazonAppForAndroid-src\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,7,8,5,6,4,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "56,279,480,173,237,122,594",
+                        "endColumns": "65,200,113,63,41,50,55",
+                        "endOffsets": "117,475,589,232,274,168,645"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "174,240,441,555,619,661,712",
+                        "endColumns": "65,200,113,63,41,50,55",
+                        "endOffsets": "235,436,550,614,656,707,763"
+                    }
+                }
+            ]
+        }
+    ]
+}

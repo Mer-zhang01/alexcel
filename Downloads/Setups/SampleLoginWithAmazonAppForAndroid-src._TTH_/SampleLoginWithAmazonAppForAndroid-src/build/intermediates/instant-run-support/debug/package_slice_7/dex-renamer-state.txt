@@ -1,0 +1,4 @@
+#Sat Feb 03 11:36:26 EST 2018
+base.0=C\:\\Users\\MerZh\\Downloads\\Setups\\SampleLoginWithAmazonAppForAndroid-src._TTH_\\SampleLoginWithAmazonAppForAndroid-src\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+renamed.0=classes.dex
+file.0=C\:\\Users\\MerZh\\Downloads\\Setups\\SampleLoginWithAmazonAppForAndroid-src._TTH_\\SampleLoginWithAmazonAppForAndroid-src\\build\\intermediates\\transforms\\dexMerger\\debug\\7\\classes.dex
